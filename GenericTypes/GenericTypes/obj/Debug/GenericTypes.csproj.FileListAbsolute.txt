@@ -1,0 +1,2 @@
+D:\Users\1810057\Desktop\NotesdeCours\GenericTypes\GenericTypes\obj\Debug\GenericTypes.csprojAssemblyReference.cache
+D:\Users\1810057\Desktop\NotesdeCours\GenericTypes\GenericTypes\obj\Debug\GenericTypes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\bin\Debug\Newtonsoft.Json.dll
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.CopyComplete
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\Users\1810027\Desktop\Système de Jeu\Serialization\Serialization\Serialization\obj\Debug\Serialization.pdb
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\bin\Debug\Newtonsoft.Json.dll
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\bin\Debug\Newtonsoft.Json.xml
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.CopyComplete
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\Users\1810057\Desktop\NotesdeCours\Serialization\Serialization\Serialization\obj\Debug\Serialization.pdb
