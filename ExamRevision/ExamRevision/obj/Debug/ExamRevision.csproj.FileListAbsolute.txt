@@ -1,0 +1,11 @@
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\bin\Debug\ExamRevision.exe.config
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\bin\Debug\ExamRevision.exe
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\bin\Debug\ExamRevision.pdb
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\obj\Debug\ExamRevision.csprojAssemblyReference.cache
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\obj\Debug\ExamRevision.csproj.CoreCompileInputs.cache
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\obj\Debug\ExamRevision.exe
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\obj\Debug\ExamRevision.pdb
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\bin\Debug\Newtonsoft.Json.dll
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\bin\Debug\Newtonsoft.Json.xml
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\obj\Debug\ExamRevision.csproj.CopyComplete
+D:\Users\1810057\source\repos\ExamRevision\ExamRevision\bin\Debug\people.json
